@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Mohamed, a 19 years old student at faculty of computer science from Egypt.
 
-- 🦔 Trinee at programming advices
+- 🦔 Trinee at [https://programmingadvices.com/courses]
 
 - 👨‍💻 Trinee at ICPC assiut
 
@@ -19,9 +19,9 @@ I'm Mohamed, a 19 years old student at faculty of computer science from Egypt.
 + a lot more :D
 
 ## Contact
-https://www.linkedin.com/in/mohamed-youssef-89748233a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-linkedin : [https://www.linkedin.com/in/mohamed-youssef-89748233a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
-
+-Codeforces : [https://codeforces.com/profile/Erythrocyte123]
 
 
 
