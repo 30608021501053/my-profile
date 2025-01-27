@@ -1,14 +1,18 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Mohamed Lederer" />
+  <img src="https://raw.githubusercontent.com/mohamedlederer/mohamedlederer/master/name.svg" alt="Mohamed Lederer" />
 </h1>
 
 ## Hey! 👋
-I'm Mohamed, a 19 years old student at fuclty of computer science from Egypt.
+I'm Mohamed, a 19 years old student at faculty of computer science from Egypt.
 
 - 🦔 Trinee at programming advices
 
 - 👨‍💻 Trinee at ICPC assiut
-  
+
+- 🦔 Comunication skills
+
+- 👨‍💻 Time management
+- 
 ## Skills
 - 👨‍💻 C++, C, C#, etc...
 - ⚙️problem solving
